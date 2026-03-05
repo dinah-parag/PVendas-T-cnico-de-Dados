@@ -111,3 +111,7 @@ Abaixo vemos os gráficos feitos a partes da base de dados de vendas limpo para 
 ⤷ Apesar da região Centro-Oeste ter se mostrado como a região com mais vendas vemos que percentualmente ela tem a mesma quantidade que a região Norte (gráfico 3), mas quando olhamos para a distribuição de faturamente (gráfico 4) percebemos com mais clareza a diferença entre eles. Apesar disso a distribuição de vendas entre as regiões é relativamente harmônica.     
    
 ⤷ Vendo as inconsistências nos dados iniciais fica aparente que não é usado um sistema padronizado entre as lojas. Com problemas como a diferença de escrita entre as categorias e diferença de formatação de datas há a possibilidade de perda de dados e por isso a sugestão é que haja um sistema mais padronizado, com possibilidade de seleção de categorias, ao invés da escrita, e também seleção de data em formato preestabelecido. 
+
+## Dashboard de Vendas Interativo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pvendas-t-cnico-de-dados28.streamlit.app/)
