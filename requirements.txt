@@ -3,6 +3,5 @@ matplotlib
 seaborn
 sqlalchemy
 pymysql
-unicodedata
 streamlit
 plotly
